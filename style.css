@@ -1,0 +1,21 @@
+body { 
+    background: #0f172a; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    font-family: sans-serif; 
+    color: white; 
+}
+.card { 
+    background: #1e293b; 
+    padding: 2rem; 
+    border-radius: 12px; 
+    text-align: center; 
+    box-shadow: 0 10px 15px rgba(0,0,0,0.3); 
+}
+.status { 
+    margin-top: 1rem; 
+    color: #4ade80; 
+    font-weight: bold; 
+}
